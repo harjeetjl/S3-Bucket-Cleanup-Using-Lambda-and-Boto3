@@ -85,7 +85,7 @@ Screenshots included in the repository:
 ![image](https://github.com/user-attachments/assets/9aa5f576-ecb5-4b40-bfb3-a2237c7b4bef)
  
 - Lambda function configuration
-![image](https://github.com/user-attachments/assets/67fccff7-678e-4ed6-a19b-119fd84226da)
+![image](https://github.com/user-attachments/assets/113ee85f-7635-4255-81e4-0146269a5e32)
 
 - Test run logs
 ![image](https://github.com/user-attachments/assets/9cede31d-70b2-4808-bf05-36ed6316e700)
