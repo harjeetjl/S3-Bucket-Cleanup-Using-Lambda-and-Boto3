@@ -77,10 +77,20 @@ This solution uses a Python-based AWS Lambda function integrated with the Boto3 
 
 Screenshots included in the repository:
 
-- S3 bucket contents (before cleanup)  
-- IAM role setup and attached policy  
-- Lambda function configuration  
-- Test run logs  
+- S3 bucket contents (before cleanup)
+![image](https://github.com/user-attachments/assets/4b9f73f1-57af-4417-85a5-0a8be73dc46d)
+![image](https://github.com/user-attachments/assets/05f55924-4006-4b49-b3b4-d39a0febeddc)
+
+- IAM role setup and attached policy
+![image](https://github.com/user-attachments/assets/9aa5f576-ecb5-4b40-bfb3-a2237c7b4bef)
+ 
+- Lambda function configuration
+![image](https://github.com/user-attachments/assets/67fccff7-678e-4ed6-a19b-119fd84226da)
+
+- Test run logs
+![image](https://github.com/user-attachments/assets/9cede31d-70b2-4808-bf05-36ed6316e700)
+
 - S3 bucket contents (after cleanup)  
+![image](https://github.com/user-attachments/assets/3887513a-58b5-4041-a95d-69456e0ac971)
 
 ---
